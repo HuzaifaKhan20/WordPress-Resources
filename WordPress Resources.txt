@@ -1,0 +1,10 @@
+For Site URL: <?php echo site_url(); ?>
+
+Plugin 
+*) import and export Website: All-in-One WP Migration and Backup
+*) Security: Wordfence
+*) SEO: All in One SEO
+*) To Watch Activity on website: WP Activity Log
+*) For displaying table: TablePress
+*) For Custom Fields: Advanced Custom Fields PRO
+*) For WhatsApp Widget: Click to Chat (Version 3.15 | By HoliThemes)
