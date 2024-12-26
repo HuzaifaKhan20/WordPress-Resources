@@ -8,3 +8,23 @@ Plugin
 *) For displaying table: TablePress
 *) For Custom Fields: Advanced Custom Fields PRO
 *) For WhatsApp Widget: Click to Chat (Version 3.15 | By HoliThemes)
+
+
+
+cyotek webcopy = For website copying
+
+httrack = For website copying
+
+wplocker = for WordPress theme
+
+Themes = https://themelock.com/
+
+Themes Download = https://babia.to/
+
+Theme virus checker = https://www.virustotal.com/gui/home/upload
+
+Sky Addons = Attractive UI/UX for Elementor
+
+Unlimited Elements = Custom Widgets plugin for Elementor.
+
+WordPress Woocommerce theme: Woodmart

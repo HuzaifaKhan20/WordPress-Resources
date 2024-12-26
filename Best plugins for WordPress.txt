@@ -1,0 +1,10 @@
+1) Admin and Site Enhancements (ASE) (To change WP dashboard and WP admin bar + other features)
+2) Classic Editor (To edit page and post content)
+3) Independent Analytics (Substitute of Google Analytics, no need to setup Google Analytics Account)
+4) Exact Metrics (Not Necessary) (Used on most sides for analytics)
+5) ManageWP Worker (Manage multiple website in it, Schedule auto update of plugins)
+6) Elementor & Elementor Pro
+7) Solid Security (or Security Optimizer from Siteground) (2 factor Auth)
+8) Litespeed Cache (Best for Hostinger webs) (or Speed Optimizer from Siteground) 
+9) [Bonus] ACF or JetEngine
+10) [Bonus] White Label CMS (For WP Dashboard Customization)
